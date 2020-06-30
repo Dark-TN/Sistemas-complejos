@@ -1,0 +1,1 @@
+Graph[{0->7,1->0,2->0,3->2,4->0,5->1,6->4,7->7,8->0},VertexSize -> Tiny, VertexStyle -> Black, ImageSize->{1000,1000}]
